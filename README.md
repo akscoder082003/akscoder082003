@@ -1,4 +1,3 @@
-# Want-to-know-about-me-click-me
 # 💫 About Me:
 🔭 I’m currently a student pursuing BCA.<br>👯 I’m looking to collaborate on front-end projects.<br>🤝 I’m looking for help with IELTS. <br>🌱 I’m currently learning MongoDB, Data Science, and Full Stack Development.<br>💬 Ask me about the college experience.<br>⚡ Fun fact, what do you expect?
 
@@ -21,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akscoder082003&icon=0&color=0)](https://visitcount.itsvg.in)
