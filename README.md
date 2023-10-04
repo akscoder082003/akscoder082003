@@ -15,6 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akscoder082003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @akscoder082003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akscoder082003)](https://holopin.io/@akscoder082003)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
