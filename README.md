@@ -2,7 +2,7 @@
 🔭 I’m currently a student pursuing BCA.<br>👯 I’m looking to collaborate on front-end projects.<br>🤝 I’m looking for help with IELTS. <br>🌱 I’m currently learning MongoDB, Data Science, and Full Stack Development.<br>💬 Ask me about the college experience.<br>⚡ Fun fact, what do you expect?
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/w/s!AuN-o3J6_qI7gxgRBoe3Gvlk0zdk?e=ynS6Vt)
+[![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/3ba2fe7a72a37ee3/ERzANM5o5hRLq1YaxO2-CrQBtXXkH3VjxKH3uX2_aNrzlQ?e=fColbD)
 
 
 ## 🌐 Socials:
