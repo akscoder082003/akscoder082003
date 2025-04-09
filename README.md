@@ -3,9 +3,6 @@
 # ~~This side~~ **ASHISH KUMAR SINGH**
 <code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code> **Insight Explorer** </code>.</code>
 
-# 💫 About Me:
-🔭 I’m currently a student pursuing BCA.<br>👯 I’m looking to collaborate on front-end projects.<br>🤝 I’m looking for help with IELTS. <br>🌱 I’m currently learning MongoDB, Data Science, and Full Stack Development.<br>💬 Ask me about the college experience.<br>⚡ Fun fact, what do you expect?
-
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/3ba2fe7a72a37ee3/ERzANM5o5hRLq1YaxO2-CrQBtXXkH3VjxKH3uX2_aNrzlQ?e=fColbD)
 
@@ -14,7 +11,6 @@
 * [![Gmail](https://img.shields.io/badge/Gmail--informational?style=social&logo=gmail)](https://www.ashishk.singh1008@gmail.com)
 * [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a.k.singh08/)
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/a_k_singh8) 
- 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
