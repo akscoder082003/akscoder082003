@@ -1,7 +1,6 @@
 >___ नमस्ते ___ hello ___ bonjour ___  ciao ___ こんにちは
 
-# ~~This side~~ **ASHISH**
-#### full name: Ashish Kumar Singh, and
+# ~~This side~~ **ASHISH KUMAR SINGH**
 <code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code> **Insight Explorer** </code>.</code>
 
 # 💫 About Me:
