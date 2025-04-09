@@ -1,8 +1,21 @@
+>___ नमस्ते ___ hello ___ bonjour ___  ciao ___ こんにちは
+
+# ~~This side~~ **ASHISH**
+#### full name: Ashish Kumar Singh, and
+<code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code> **Insight Explorer** </code>.</code>
+
 # 💫 About Me:
 🔭 I’m currently a student pursuing BCA.<br>👯 I’m looking to collaborate on front-end projects.<br>🤝 I’m looking for help with IELTS. <br>🌱 I’m currently learning MongoDB, Data Science, and Full Stack Development.<br>💬 Ask me about the college experience.<br>⚡ Fun fact, what do you expect?
 
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/3ba2fe7a72a37ee3/ERzANM5o5hRLq1YaxO2-CrQBtXXkH3VjxKH3uX2_aNrzlQ?e=fColbD)
+
+### Digital Nexus
+* [linkedin](https://www.linkedin.com/in/ashish-kumar-singh-440146227/)
+* [gmail](https://www.ashishk.singh1008@gmail.com)
+* [instagram](https://www.instagram.com/a.k.singh08/)
+* [twitter (X)](https://x.com/a_k_singh8)
+* [discord](https://discord.gg/37SjsJ7W)
 
 
 ## 🌐 Socials:
