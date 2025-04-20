@@ -4,7 +4,7 @@
 <code>I believe in crafting elegant solutions that make a difference, whether I'm building web applications, exploring AI, or embarking on my path to conquer the goals as a <code> **Insight Explorer** </code>.</code>
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/3ba2fe7a72a37ee3/ERzANM5o5hRLq1YaxO2-CrQBtXXkH3VjxKH3uX2_aNrzlQ?e=fColbD)
+[![Resume](https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white)](https://1drv.ms/b/c/3ba2fe7a72a37ee3/EQU6WzbD5e1ChCyfyyqSayEBfQ1glqyNDHXmzivmTgq2FA?e=yKcrK9)
 
 ## Digital Nexus
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-singh-440146227/)
