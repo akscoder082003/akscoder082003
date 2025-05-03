@@ -17,6 +17,8 @@
 
 ### Microsoft Certification
 - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/18936860/credentials/ae1ebc2d679ddfd7?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
+
 <!--- ### Microsoft Learn Achievements
 - [Create and use analytics reports with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/18936860/9X9JEQMU?sharingId=2A4262C729404996)
 * [Model data with Power BI](https://learn.microsoft.com/api/achievements/share/en-us/18936860/UYUTENA3?sharingId=2A4262C729404996)
